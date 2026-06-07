@@ -3,7 +3,6 @@
 **Data Analyst · Game Developer · MS Computer Science @ Texas State University**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/utsav-shingala)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Utsav-017)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:utsavus017@gmail.com)
 [![Location](https://img.shields.io/badge/San%20Marcos%2C%20TX-4285F4?style=flat&logo=googlemaps&logoColor=white)](#)
 
@@ -36,7 +35,7 @@ Backend contributor on a team-built AI health platform:
 - Structured data schemas for predictive analytics features
 - REST API integration connecting patient data to ML model outputs
 
-### 📚 LearnHub — Online Learning Platform (Bhagwan Mahavir University, 2025)
+### 📚 LearnHub - Online Learning Platform (Bhagwan Mahavir University, 2025)
 Full-stack web application for course management:
 - Normalized relational database design
 - REST API backend for auth and course data
@@ -60,7 +59,7 @@ Full-stack web application for course management:
 
 ## Certifications
 
-**Building AI Agents with Multimodal Models** — NVIDIA · April 2026
+**Building AI Agents with Multimodal Models** - NVIDIA · April 2026
 `Credential ID: MRYCYUNsTxqTMDeTuW4elA`
 
 Designed and evaluated AI agents integrating text, image, and structured data pipelines for real-world applications.
@@ -69,15 +68,15 @@ Designed and evaluated AI agents integrating text, image, and structured data pi
 
 ## Education
 
-**M.S. Computer Science** — Texas State University, San Marcos TX *(Expected May 2027)*
-**B.S. Computer Science** — Bhagwan Mahavir University, Gujarat India *(May 2025)*
+**M.S. Computer Science** - Texas State University, San Marcos TX *(Expected May 2027)*
+**B.S. Computer Science** - Bhagwan Mahavir University, Gujarat India *(May 2025)*
 
 ---
 
 ## Currently
 
 - 📊 Building data analysis projects using Python, SQL, and real-world datasets
-- 🎯 Applying to Data Analyst roles — open to full-time and internship positions
+- 🎯 Applying to Data Analyst roles - open to full-time and internship positions
 - 🧠 Deepening ML skills with a focus on applied, explainable models
 
 ---
