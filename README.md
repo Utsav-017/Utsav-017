@@ -1,6 +1,6 @@
 # Utsav Shingala
 
-**Data Analyst · Game Developer · MS Computer Science @ Texas State University**
+**Game Developer · Data Analyst · MS Computer Science @ Texas State University**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/utsav-shingala)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:utsavus017@gmail.com)
@@ -20,10 +20,10 @@ I sit at the intersection of **game systems**, **user behavior data**, and **app
 
 ## Experience
 
-### Data Analyst / Game Developer - Maxima Gaming Studio *(Feb 2023 – Mar 2025)*
+### Game Developer - Maxima Gaming Studio *(Feb 2023 – Mar 2025)*
 *Surat, Gujarat, India*
 
-Built and shipped 5+ production Android games in Unity + C#, while working on the data and monetization stack:
+Built and shipped multiple production Android games in Unity + C#, while working on the data and monetization stack:
 
 - **Behavioral analytics at scale** - Analyzed real-time data for 30,000+ active users via Firebase Analytics and Firestore, identifying engagement patterns that directly informed product and design decisions
 - **Revenue growth** - Increased in-app revenue by ~30% by analyzing user engagement data and A/B testing ad placement strategies across AdMob, IronSource, and AppLovin MAX
@@ -35,6 +35,18 @@ Built and shipped 5+ production Android games in Unity + C#, while working on th
 ---
 
 ## Projects
+
+### 🎮 Multiple Mobile Games - Maxima Gaming Studio *(2023 – 2025)*
+
+Production Android games shipped under real studio constraints:
+- Built complete 2D/3D gameplay systems in **Unity + C#** - physics, UI, animations, scene management, and player progression
+- Integrated **Firebase** (Auth, Firestore, Realtime DB, Analytics) for user data persistence, real-time sync, and in-app analytics tracking
+- Implemented full **monetization pipelines** using AdMob, IronSource, and AppLovin MAX - including ad frequency tuning and placement testing to maximize eCPM without hurting retention
+- Built **Google Maps API** integration for geo-based gameplay features serving 500+ concurrent users
+- Optimized across the **Android build pipeline** - profiling memory usage, reducing APK size, and hitting frame rate targets on mid-range devices
+- Maintained clean codebases across cross-functional teams using **Git** with structured branching and release workflows
+
+---
 
 ### 🏥 AI-Driven Health Intelligence Platform *(Feb 2026 – Apr 2026)*
 *Term Project | Texas State University*
@@ -53,18 +65,6 @@ Extended a baseline LSB steganography system with three research-grade improveme
 - Implemented **adaptive Reed-Solomon ECC** that scales parity dynamically with payload size, plus password-derived random embedding and Sobel edge-aware adaptive embedding
 - Benchmarked all strategies across five image quality metrics (MSE, PSNR, SSIM, Cosine Similarity, VI) - quantified a **3+ dB PSNR gain** and **~50% MSE reduction** from adaptive ECC over the static baseline
 - Integrated **Fernet (AES-128-CBC) encryption** into the embedding pipeline for payload confidentiality even if LSBs are extracted
-
----
-
-### 🎮 Multiple Mobile Games - Maxima Gaming Studio *(2023 – 2025)*
-
-Production Android games shipped under real studio constraints:
-- Built complete 2D/3D gameplay systems in **Unity + C#** - physics, UI, animations, scene management, and player progression
-- Integrated **Firebase** (Auth, Firestore, Realtime DB, Analytics) for user data persistence, real-time sync, and in-app analytics tracking
-- Implemented full **monetization pipelines** using AdMob, IronSource, and AppLovin MAX - including ad frequency tuning and placement testing to maximize eCPM without hurting retention
-- Built **Google Maps API** integration for geo-based gameplay features serving 500+ concurrent users
-- Optimized across the **Android build pipeline** - profiling memory usage, reducing APK size, and hitting frame rate targets on mid-range devices
-- Maintained clean codebases across cross-functional teams using **Git** with structured branching and release workflows
 
 ---
 
